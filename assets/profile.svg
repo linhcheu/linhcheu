@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="264" viewBox="0 0 1024 264" role="img" aria-labelledby="title desc">
+  <title id="title">Linhcheu — Where design and code meet.</title>
+  <desc id="desc">The pixel wordmark and LC monogram from Linhcheu Meng’s portfolio, on a dark drafting grid.</desc>
+  <defs>
+    <pattern id="dots" width="12" height="12" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#454548"/>
+    </pattern>
+    <linearGradient id="fade"><stop offset="0.04" stop-color="white" stop-opacity=".12"/><stop offset=".86" stop-color="white"/></linearGradient>
+    <mask id="field"><rect width="1024" height="264" fill="url(#fade)"/></mask>
+    <path id="cross" d="M-5 0H5M0-5V5" fill="none" stroke="#a1a1aa"/>
+  </defs>
+  <rect width="1024" height="264" rx="18" fill="#101012"/>
+  <rect width="1024" height="264" rx="18" fill="url(#dots)" mask="url(#field)"/>
+  <path fill="#fafafa" transform="translate(54 68) scale(12)" d="M0 0h1v1h-1zM0 1h1v1h-1zM0 2h1v1h-1zM0 3h1v1h-1zM0 4h1v1h-1zM0 5h1v1h-1zM0 6h1v1h-1zM0 7h1v1h-1zM2 0h1v1h-1zM2 2h1v1h-1zM2 3h1v1h-1zM2 4h1v1h-1zM2 5h1v1h-1zM2 6h1v1h-1zM2 7h1v1h-1zM4 2h4v1h-4zM4 3h1v1h-1zM8 3h1v1h-1zM4 4h1v1h-1zM8 4h1v1h-1zM4 5h1v1h-1zM8 5h1v1h-1zM4 6h1v1h-1zM8 6h1v1h-1zM4 7h1v1h-1zM8 7h1v1h-1zM10 0h1v1h-1zM10 1h1v1h-1zM10 2h4v1h-4zM10 3h1v1h-1zM14 3h1v1h-1zM10 4h1v1h-1zM14 4h1v1h-1zM10 5h1v1h-1zM14 5h1v1h-1zM10 6h1v1h-1zM14 6h1v1h-1zM10 7h1v1h-1zM14 7h1v1h-1zM17 2h3v1h-3zM16 3h1v1h-1zM20 3h1v1h-1zM16 4h1v1h-1zM16 5h1v1h-1zM16 6h1v1h-1zM20 6h1v1h-1zM17 7h3v1h-3zM22 0h1v1h-1zM22 1h1v1h-1zM22 2h4v1h-4zM22 3h1v1h-1zM26 3h1v1h-1zM22 4h1v1h-1zM26 4h1v1h-1zM22 5h1v1h-1zM26 5h1v1h-1zM22 6h1v1h-1zM26 6h1v1h-1zM22 7h1v1h-1zM26 7h1v1h-1zM29 2h3v1h-3zM28 3h1v1h-1zM32 3h1v1h-1zM28 4h5v1h-5zM28 5h1v1h-1zM28 6h1v1h-1zM32 6h1v1h-1zM29 7h3v1h-3zM34 2h1v1h-1zM38 2h1v1h-1zM34 3h1v1h-1zM38 3h1v1h-1zM34 4h1v1h-1zM38 4h1v1h-1zM34 5h1v1h-1zM38 5h1v1h-1zM34 6h1v1h-1zM38 6h1v1h-1zM35 7h4v1h-4z"/>
+  <text x="55" y="209" fill="#d4d4d8" font-family="ui-monospace,monospace" font-size="22">Where design and code meet.</text>
+  <g stroke="#525258" fill="none">
+    <path d="M680 68H976M680 196H976M716 36V228M940 36V228" stroke-dasharray="3 5"/>
+  </g>
+  <path fill="#e4e4e7" transform="translate(716 68) scale(.5)" d="M0 0h64v192h128v64H0zM320 0h128v64H320zM256 64h64v128h-64zM320 192h128v64H320z"/>
+  <g xmlns:xlink="http://www.w3.org/1999/xlink">
+    <use xlink:href="#cross" x="716" y="68"/><use xlink:href="#cross" x="940" y="68"/>
+    <use xlink:href="#cross" x="716" y="196"/><use xlink:href="#cross" x="940" y="196"/>
+  </g>
+</svg>
