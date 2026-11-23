@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="124" height="40" viewBox="0 0 124 40">
+  <title>Gallery</title>
+  <rect x=".5" y=".5" width="123" height="39" rx="9" fill="#202b26" stroke="#566f61"/>
+  <g transform="translate(11 8)" stroke="#eaf4ef" fill="none" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"><path d="M3 4h18v16H3zM3 17l6-6 4 4 3-3 5 5"/><circle cx="16" cy="8" r="1"/></g>
+  <text x="43" y="26" font-family="monospace" font-size="16" fill="#eaf4ef">Gallery</text>
+</svg>
